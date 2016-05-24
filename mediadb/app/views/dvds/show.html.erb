@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Medium Details</h1>
+
+<p>
+  <strong>Medium ID:</strong>
+  <%= @dvd.id %>
+</p>
+<p>
+  <strong>Format:</strong>
+  <%= @dvd.format %>
+</p>
+<p>
+  <strong>Belongs to:</strong>
+  <%= User.find(@dvd.user_id).name %>
+</p>
+<p>
+  <strong>User ID:</strong>
+  <%= @dvd.user_id %>
+</p>
+<button type="button" class="bttn"><%= link_to 'Add New File', new_dvd_video_path(@dvd) %></button>
+<button type="button" class="bttn"><%= link_to 'Show All Files', dvd_videos_path(@dvd) %></button><br>
+<button type="button" class="bttn"><%= link_to 'Edit Medium', edit_dvd_path(@dvd) %></button>
+<button type="button" class="bttn"><%= link_to 'Show All Media', dvds_path %></button><br>

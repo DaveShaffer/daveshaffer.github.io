@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<h1>User Details</h1>
+
+<p>
+  <strong>User ID:</strong>
+  <%= @user.id %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @user.name %>
+</p>
+
+<p>
+  <strong>Address:</strong>
+  <%= @user.address %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @user.email %>
+</p>
+
+<p>
+  <strong>Age:</strong>
+  <%= @user.age %>
+</p>
+
+<p>
+  <strong>Date of Birth:</strong>
+  <%= @user.dob %>
+</p>
+
+<%= image_tag @user.photo_url, class: 'user-photo', alt: "User Photo" %><br>
+
+<button type="button" class="bttn"><%= link_to 'Edit User', edit_user_path(@user) %></button>
+<button type="button" class="bttn"><%= link_to 'Show All Users', users_path %></button><br>
+<button type="button" class="bttn"><%= link_to 'Add New Media', new_dvd_path %></button>
