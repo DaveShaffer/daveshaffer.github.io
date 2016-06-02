@@ -8,10 +8,10 @@ This game begins with prompts for the users to enter their names for the scorebo
 
 ### Links
 Source code on github:
-https://github.com/DaveShaffer/Tictactoetest.git
+https://github.com/DaveShaffer/Triple-T
 
 Link to the game:
-http://daveshaffer.github.io/Tictactoetest/
+http://daveshaffer.github.io/Triple-T/
 
 The Trello link:
 https://trello.com/b/okmIKT7Q/tic-tac-toe
