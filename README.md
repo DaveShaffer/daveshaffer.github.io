@@ -1,4 +1,4 @@
-# Dave Shaffer's Portfolio
+# DAVE SHAFFER'S PORTFOLIO
 
 ### General Assembly WDI6
 ### March - June 2016
