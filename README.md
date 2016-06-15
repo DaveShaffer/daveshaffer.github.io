@@ -4,5 +4,5 @@
 ### March - June 2016
 ### Atlanta, GA
 
-GitHub - https://github.com/DaveShaffer
+GitHub - https://github.com/DaveShaffer<br>
 LinkedIn - https://www.linkedin.com/in/daveashaffer
