@@ -5,4 +5,5 @@
 ### Atlanta, GA
 
 https://github.com/DaveShaffer
+
 https://www.linkedin.com/in/daveashaffer
