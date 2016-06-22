@@ -8,4 +8,4 @@
 
 GitHub - https://github.com/DaveShaffer<br>
 LinkedIn - https://www.linkedin.com/in/daveashaffer<br>
-GA Profiles - https://profiles.generalassemb.ly/profiles/dave-a-shaffer
+GA Profiles - https://profiles.generalassemb.ly/dave-a-shaffer
