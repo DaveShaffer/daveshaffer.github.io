@@ -1,0 +1,24 @@
+body {
+  color: #030303;
+  background-image: url("../images/sub_shop.png");
+  background-size: 1200px;
+  background-color: #030303;
+  font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.order {
+  text-align: center;
+}
+
+a {
+  color: #030303;
+}
+
+ul {
+  padding: 0px 40px 40px 40px;
+}
+
+li {
+  text-align: left;
+}

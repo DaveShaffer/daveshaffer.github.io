@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sub Shop Supervisor</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script type="text/javascript" src="angular/angular.min.js" defer></script>
+    <script type="text/javascript" src="angular-ui-router/release/angular-ui-router.min.js" defer></script>
+    <script type="text/javascript" src="javascripts/client.js" defer></script>
+    <script type="text/javascript" src="underscore/underscore.js"></script>
+    <!-- <script type="text/javascript" src="user.js" defer></script> -->
+    <base href="/">
+  </head>
+  <body ng-app='subShopApp' ng-controller='itemsCtrl as ctrl'>
+  <!-- Nav Bar -->
+    <div style="border: solid 2px; padding: 5px; color: #EEEEEE">
+      <a ui-sref="home">Home</a>
+      <a ui-sref="items">Menu</a>
+    </div>
+    <!-- Body from public/views -->
+    <div ui-view=""></div>
+  </body>
+</html>
