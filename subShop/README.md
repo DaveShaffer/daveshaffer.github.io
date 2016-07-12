@@ -51,7 +51,7 @@ $ npm start
 or
 
 ```sh
-nodemon ./bin/www
+$ nodemon ./bin/www
 ```
 
 ## Future Iterations
