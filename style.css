@@ -1,0 +1,25 @@
+body {
+  max-width: 50em;
+  margin:auto;
+  padding:2em 1em;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: bold;
+  color: #f05f40;
+}
+
+ a, a:visited {
+   text-decoration: none;
+   color: blue;
+ }
+
+ a:hover {
+   background-color: #ccc;
+ }
+
+footer {
+    font-size: 10px;
+    font-style: italic;
+    text-align: center;
+    color: #aaaaaa;
+    margin: 30px;
+}
